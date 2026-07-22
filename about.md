@@ -1,7 +1,8 @@
+---
 layout: page
-title: About Me
+title: About
 permalink: /about/
-About Me
+---
 
 Hi! I'm Renad! 👋
 
@@ -13,4 +14,4 @@ I studied Computer Networks and Security and I'm currently pursuing a bachelor's
 
 When I'm not working or studying, you'll probably find me experimenting with new tools, building side projects, or opening another browser tab because *this one looks useful too*.
 
-Thanks for stopping by! Feel free to explore my projects, and if you have any questions—or know why the printer suddenly started working the moment I walked over—I'd love to hear from you. 🚀
+Thanks for stopping by! Feel free to explore my projects.
