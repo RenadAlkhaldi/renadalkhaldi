@@ -1,13 +1,10 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-# Hi, I'm Renad! 👋
+Hello, World! 👋
 
-Welcome to my portfolio.
+The first words many of us write when learning to code. It feels like the perfect way to welcome you to my professional journey.
 
-- [About Me](about/)
-- [Projects](#)
-- [Resume](#)
-- [Contact](#)
+Take a look around and explore my projects, experiences, and the path that brought me here.
