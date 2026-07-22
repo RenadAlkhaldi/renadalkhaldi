@@ -40,7 +40,7 @@ This project demonstrates the design and implementation of a multi-building ente
 
 > Watch the project demonstration.
 
-[▶ Watch the Demo Video](/renadalkhaldi/assets/network-project/video/demo.mp4)
+[▶ Watch the Demo Video](/renadalkhaldi/assets/network-project/video/Network-Project-Video.mp4)
 
 ---
 
