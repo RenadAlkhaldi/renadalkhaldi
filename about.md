@@ -3,7 +3,7 @@ title: About Me
 permalink: /about/
 About Me
 
-Hi, I'm Renad! 👋
+Hi! I'm Renad! 👋
 
 Welcome to my little corner of the internet.
 
